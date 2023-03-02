@@ -7,8 +7,10 @@
             Console.WriteLine("Welcome to Algorithm Programs");
             //Anagram anagram = new Anagram();
             //anagram.DispayAnagram();
-            BubbleSort bubbleSort= new BubbleSort();
-            bubbleSort.DisplayNumbers();
+            //BubbleSort bubbleSort= new BubbleSort();
+            //bubbleSort.DisplayNumbers();
+            InsertionSort insertionSort = new InsertionSort();
+            insertionSort.DisplayNumbers();
 
         }
     }
